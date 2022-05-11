@@ -8,7 +8,7 @@ The app intergrates, authentication,cloud functions and local payment modes inte
 
  - [Awesome Readme Templates]('')
  - [Awesome README]('')
- - [Special Thanks to Adnantjexx the design who inspired the Design inspired]('')
+ - [Special Thanks to Adnantjexx  who inspired the Design ]('')
 
 
 ## Appendix
