@@ -53,7 +53,7 @@ Insert gif or link to demo
 ## Screenshots
 
 ![App Screenshot](https://user-images.githubusercontent.com/66201373/167839941-738d97de-6aea-4fbd-89a3-294e00058cf3.jpg)
-![App Screenshot](https://user-images.githubusercontent.com/66201373/167839941-738d97de-6aea-4fbd-89a3-294e00058cf3.jpg)
-![App Screenshot](https://user-images.githubusercontent.com/66201373/167839941-738d97de-6aea-4fbd-89a3-294e00058cf3.jpg)
+![App Screenshot](https://user-images.githubusercontent.com/66201373/167840304-22a5deee-f0f0-46a5-8290-1040c87e0902.jpg)
+![App Screenshot]()
 ![App Screenshot](https://user-images.githubusercontent.com/66201373/167839941-738d97de-6aea-4fbd-89a3-294e00058cf3.jpg)
 
