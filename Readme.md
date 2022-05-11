@@ -6,8 +6,8 @@ The app intergrates, authentication,cloud functions and local payment modes inte
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [Awesome Readme Templates]('')
+ - [Awesome README]('')
  - [Special Thanks to Adnantjexx the design who inspired the Design inspired]('')
 
 
